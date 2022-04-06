@@ -1,0 +1,15 @@
+{
+  "name": "aravindh_get",
+  "version": "1.0.0",
+  "description": "",
+  "main": "g.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":" nodemon g.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
